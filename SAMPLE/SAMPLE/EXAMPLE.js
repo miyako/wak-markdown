@@ -1,0 +1,1 @@
+﻿var modulesFolder = FileSystemSync('Modules');var markdown = require(modulesFolder.path + 'markdown');var html5 = false, github = false;var html = '* 1 abc';markdown.convert(html5, github, html);//<ul><li>1 abc</li></ul>
