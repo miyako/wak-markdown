@@ -1,14 +1,12 @@
 wak-markdown
 ============
 
-Wakanda module to convert MD to HTML.
+Wakanda module to convert MD to HTML using the libmarkdown library.
 
 About
 -----
-* [Discount](http://www.pell.portland.or.us/~orc/Code/markdown/) a.k.a libmarkdown/2.1.6
-
-OS X, Windows, ~~Linux~~
-
+* [Discount](http://www.pell.portland.or.us/~orc/Code/markdown/)/2.1.6
+* 
 Example
 -------
 ```js
