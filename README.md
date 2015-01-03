@@ -7,11 +7,7 @@ About
 -----
 * [Discount](http://www.pell.portland.or.us/~orc/Code/markdown/) a.k.a libmarkdown/2.1.6
 
-**Mac OS X**
-
-**Windows**
-
-**~~Linux~~**
+Mac OS X, Windows, ~~Linux~~
 
 Example
 -------
