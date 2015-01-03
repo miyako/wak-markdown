@@ -6,7 +6,7 @@ Wakanda module to convert MD to HTML using the libmarkdown library.
 About
 -----
 * [Discount](http://www.pell.portland.or.us/~orc/Code/markdown/)/2.1.6
-* 
+
 Example
 -------
 ```js
