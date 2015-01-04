@@ -20,4 +20,4 @@ var html = '* 1 abc';
 markdown.convert(html, html5, github).toString();//returns Blob, as it may or may not be utf-8
 //<ul><li>1 abc</li></ul>
 ```
-**Note**: The input/output can be string or Buffer.
+**Note**: The input html can be string or Buffer.
