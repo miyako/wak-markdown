@@ -3,10 +3,6 @@ SAMPLE/SAMPLE Solution/breakpoints.json
 
 SAMPLE/SAMPLE Solution/Directory.cacheUAG
 
-SAMPLE/SAMPLE Solution/Directory.waDirectory
-
-SAMPLE/SAMPLE Solution/Directory.WakTDef
-
 SAMPLE/SAMPLE Solution/Logs/SAMPLE_log_1.txt
 
 SAMPLE/SAMPLE/SymbolTable.Match
@@ -22,3 +18,5 @@ SAMPLE/SAMPLE/DataFolder/data.WakTDef
 SAMPLE/SAMPLE/DataFolder/data.waData
 
 SAMPLE/SAMPLE Solution/sessionID.json
+
+SAMPLE/SAMPLE Solution/SAMPLE.miyako.waPreferences
