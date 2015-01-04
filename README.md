@@ -13,9 +13,11 @@ Example
 var modulesFolder = FileSystemSync('Modules');
 var markdown = require(modulesFolder.path + 'markdown');
 
-var html5 = false, github = false;
+var html5 = false;//use html5 tags;default=0
+var github = false;//github flavour markdown;default=0
 var html = '* 1 abc';
 
-markdown.convert(html5, github, html);//<ul><li>1 abc</li></ul>
+markdown.convert(html, html5, github).toString();//returns Blob, as it may or may not be utf-8
+//<ul><li>1 abc</li></ul>
 ```
 **Note**: The input/output can be string or Buffer.
